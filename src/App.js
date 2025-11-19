@@ -1,6 +1,6 @@
    import React from 'react';
    
-import TodoApp from "./TodoApp.js"
+import FormValidation from "./FormValidation.js"
 import './App.css'; // Assuming you have an App.css file for styling
   // Adjust the path as necessary
 function App() {
@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div className="App">
-      <TodoApp />
+      <FormValidation />
     </div>  
   );
 } 
